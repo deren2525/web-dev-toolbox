@@ -1,0 +1,7 @@
+.nuxt
+.output
+dist
+node_modules
+coverage
+pnpm-lock.yaml
+public/sitemap.xml
